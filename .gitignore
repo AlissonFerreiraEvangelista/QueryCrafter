@@ -33,6 +33,9 @@ build/
 .vscode/
 
 src/main/resources/application.properties
+<<<<<<< HEAD
 
+=======
+>>>>>>> f8005d02ef3359d322980b06aa71210952ab8511
 
 
